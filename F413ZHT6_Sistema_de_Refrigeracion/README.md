@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/Jnz7Xqdk/sketch1663714972342.png" alt="logo" width="250" height="250"/>
+  <img src="https://i.postimg.cc/rF0zDQSS/logo.jpg" alt="logo" width="250" height="250"/>
   <h1 align="center">F413ZHT6_{Sistema de control de refrigeración comercial con enfoque en el manejo de la energía}</h1>
 </p>
 
